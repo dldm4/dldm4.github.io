@@ -1,0 +1,31 @@
+loc)  634 Bytes
+
+---
+layout: none
+permalink: .well-known/apple-app-site-association
+---
+{
+    "applinks":
+    {
+        "apps":
+        [],
+        "defaults": true,
+        "details":
+        [
+            {
+                "appIDs":
+                [
+                    "8L23Q54664.com.teslamotors.TeslaApp",
+                    "4XEAFA5LE7.com.teslamotors.enterpriseapp",
+                    "4XEAFA5LE7.com.teslamotors.serviceapp"
+                ],
+                "paths":
+                [
+                    "/path1",
+                    "/path2"
+                ]
+            }
+        ],
+        "substitutionVariables": true
+    }
+}
